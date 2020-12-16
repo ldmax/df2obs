@@ -1,4 +1,6 @@
 # A tool to convert DataFrame to a list of objects of some class or vice versa
+  - Install: pip install df2obs
+  - [Home page](https://github.com/ldmax/df2obs.git)
   - Signatures
   ```python
     def df2obs(df: pd.DataFrame, clazz: Any) -> List[Any]
