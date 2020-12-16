@@ -14,7 +14,7 @@
 # Example
   ```python
   import pandas as pd
-  from base import Base, BaseType
+  from df2obs.base import Base, BaseType
 
 
   movie_df = pd.DataFrame({
